@@ -1,7 +1,5 @@
 /* 10. Implement a program for stack that performs following operations using array: 
 PUSH, POP, PEEP, CHANGE & DISPLAY */
-/* 10. Implement a program for stack that performs following operations using array: 
-PUSH, POP, PEEP, CHANGE & DISPLAY */
 import java.util.Scanner;
 class stack{
     int top;
