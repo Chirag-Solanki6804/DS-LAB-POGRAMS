@@ -1,4 +1,4 @@
-// 12. Implement a program to convert in-fix notation to post-fix notation using stack 
+// 12. Implement a program to convert in-fix notation to post-fix notation using stack library
 import java.util.Stack;
 import java.util.Scanner;
 
